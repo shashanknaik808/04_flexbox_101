@@ -88,6 +88,7 @@ h2 {
 
 .main-content {
     /* Flex here*/
+    flex: 0 0 calc(60% - 1rem);
 
 }
 
